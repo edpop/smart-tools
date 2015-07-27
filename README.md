@@ -9,7 +9,7 @@ pretty angle multiple 45 degrees between current and previous segments of your l
 
  The tool also help to draw a pretty angle between first and last segments.
 
-* **Awesome editing** ![b](tools/awesome_editing.png|width=32)
+* **Awesome editing** <img src="tools/awesome_editing.png" width="32" alt="b">
 
  This tool help to edit angles to right from existing lines and polygons.
 
