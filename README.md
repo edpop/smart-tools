@@ -1,19 +1,19 @@
-# Smart tools
+# Smart tools for linestrings and polygons editing in QGIS.
 
-## It's time to get some useful tools!
+## It's time to get some useful tools for QGIS!
 
-* **Smart angle drawing** ![a](tools/smart_angle_drawing.png = 32x32)
+* **Smart angle drawing** <img src="tools/smart_angle_drawing.png" width="24">
 
  Holding down "Shift" key, you can draw a 
 pretty angle multiple 45 degrees between current and previous segments of your line or polygon geometry.
 
  The tool also help to draw a pretty angle between first and last segments.
 
-* **Awesome editing** <img src="tools/awesome_editing.png" width="32" alt="b">
+* **Awesome editing** <img src="tools/awesome_editing.png" width="24">
 
  This tool help to edit angles to right from existing lines and polygons.
 
-* **Brainy spin** ![c](tools/brainy_spin.png =32x32)
+* **Brainy spin** <img src="tools/brainy_spin.png" width="24">
 
  Designed to rotate the lines and polygons.
 
@@ -23,9 +23,9 @@ pretty angle multiple 45 degrees between current and previous segments of your l
 
  The tool allows you to deploy a line or polygon parallel to the segment of other figure with respect to the selected segment.
 
-* **Multi-editing** ![d](tools/multi_editing.png = 32x32)
+* **Multi-editing** <img src="tools/multi_editing.png" width="24">
 
- Holding down "Ctrl" key, select all needed features.
+ Holding down "Ctrl" key, select all needed features in multiple layers.
 
  By moving accessory rectangle, move all selected geometries to new place.
 
