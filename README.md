@@ -1,6 +1,6 @@
-# Smart tools for linestrings and polygons editing in QGIS.
+# Smart tools for QGIS.
 
-## It's time to get some useful tools for QGIS!
+## It's time to get some useful tools for linestring and polygon editing in QGIS!
 
 * **Smart angle drawing** <img src="tools/smart_angle_drawing.png" width="24">
 
